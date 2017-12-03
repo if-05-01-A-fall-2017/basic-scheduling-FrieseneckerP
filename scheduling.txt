@@ -1,0 +1,14 @@
+1;
+
+Bei dem Consumer-Producer-Problem
+wenn zb. der Consumer sich "schlafen" legt weil keine Produkte mehr da sind, könnte er als nächsten Prozess den Producer empfehlen, damit er selbst wieder schneller voran kommt.   
+2;
+
+G   B   A    D    C    F    H    E
+2   5   8    12   16   21   34   55
+
+2 + 7 + 15 + 27 + 43 + 64 + 98 + 153 = 409
+AVG: 409/8 = 51,125
+
+3;
+doppelte laufzeit
